@@ -160,10 +160,6 @@ Un système CRUD (Create, Read, Update, Delete) développé avec Laravel, conçu
 
 Le système est pré-rempli avec des produits de démonstration pour faciliter vos tests :
 - Ordinateur Portable
-- Smartphone
-- Casque Bluetooth
-- Tablette
-- Montre Connectée
 
 ---
 
